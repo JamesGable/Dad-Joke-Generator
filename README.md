@@ -13,7 +13,7 @@ The Dad Joke Generator is a simple web application that generates random dad jok
 ## Installation
 To run the Dad Joke Generator locally, follow these steps:
 
-* Clone the repository: git clone https://github.com/your-username/dad-joke-generator.git
+* Clone the repository: git clone https://github.com/JamesGable/Dad-Joke-Generator.git
 * Navigate to the directory: cd dad-joke-generator
 * Install dependencies and set up your Go environment.
   
