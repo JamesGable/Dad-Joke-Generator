@@ -6,7 +6,7 @@ The Dad Joke Generator is a simple web application that generates random dad jok
 * Generates random dad jokes stored within the Go backend.
 * Presents the fetched joke on the screen for user enjoyment.
 * Provides a fun "laughing dad" emoji upon joke retrieval.
-* Technologies Used
+## Technologies Used
 * Frontend: React
 * Backend: Go (Golang)
 
